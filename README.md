@@ -41,7 +41,7 @@ For correct usage. Run the following commands in your terminal:
 
 After installing the required files/packages above and running the commands. In your prefered terminal type: `node index.js` or `node index` to run the application. You will be shown options such as: view all departments, view all roles, view all employees, add a department, add a role, add an employee, and update an employee role. Please make sure you fill each section specifically for adding the employees, roles and department. 
 
-![screenshot]()
+![screenshot](https://github.com/gabetuason/employee_tracker_CMS/blob/develop/images/TablesScreenshot.JPG)
 
 Please view video demonstration below for example of usage.
 
